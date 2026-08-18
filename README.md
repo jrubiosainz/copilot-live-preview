@@ -1,3 +1,5 @@
+![hero](assets/hero.png)
+
 # Copilot Live Preview
 
 CLI to scaffold and validate live-reload HTML projects for VS Code 1.133's integrated browser auto-reload feature.
