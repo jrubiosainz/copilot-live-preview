@@ -1,0 +1,13 @@
+{
+  "name": "copilot-live-preview",
+  "version": "1.0.0",
+  "description": "CLI to scaffold and validate live-reload HTML projects for VS Code 1.133 integrated browser",
+  "main": "src/index.js",
+  "bin": {
+    "copilot-live-preview": "./src/index.js"
+  },
+  "type": "module",
+  "keywords": ["copilot", "vscode", "live-reload", "integrated-browser", "agent"],
+  "license": "MIT",
+  "author": "jrubiosainz"
+}
